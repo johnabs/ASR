@@ -1,4 +1,4 @@
-#Contributing to ASR
+# Contributing to ASR
 
 First of all, thank you for the interest in contributing to this project!
 
