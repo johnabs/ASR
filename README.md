@@ -30,8 +30,8 @@ chmod +x name_of_the_script
 and either put them in your path, or add this repo and its sub-folders to your path so you can execute them easily.
 
 ## OSX
-For OSX users, this will be a bit of a process, but you'll need to install brew, along with some core-utils (gsed, etc.), and change the scripts just a bit (e.g. replace sed with gsed). This could likely be mitigated with POSIX compliance, but I'm still learning on that front. For now, I'll include instructions on how to install brew and these utils, as well as update the scripts in another markdown file.
+For OSX users, this will be a bit of a process, but you'll need to [install brew](https://brew.sh/), along with some core-utils ([gsed](https://stackoverflow.com/questions/30003570/how-to-use-gnu-sed-on-mac-os-10-10-brew-install-default-names-no-longer-su), etc.), and change the scripts just a bit (e.g. replace sed with gsed). This could likely be mitigated with POSIX compliance, but I'm still learning on that front. For now, the instructions for the installation steps are included above, and instructions for tweaking the scripts will be added a bit later.
 
 ## Windows
-For windows, you'll either need to install the Linux Subsystem for windows which is now available, or install Cygwin. I'd recommend the former, as everything should "just work", as in the Linux case, but Cygwin could possibly cause some issues.
+For windows, you'll either need to install the [Linux Subsystem](https://windowsloop.com/install-linux-subsystem-windows-10/) for windows which is now available, or install [Cygwin](https://www.cygwin.com/). I'd recommend the former, as everything should "just work", as in the Linux case, but Cygwin could possibly cause some issues.
 
