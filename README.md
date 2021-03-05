@@ -1,5 +1,5 @@
-# ASR
-Academic scripts for researchers: automating boring/tedious parts of research
+# ASR: Academic scripts for researchers
+Automating boring/tedious parts of research
 
 
 This is an ever growing repository of useful scripts for researchers across academia/industry to help aggregate papers, manage and execute experiments on code, search individual or multiple journals for a given term and time-frame, execute scripts on a super-computer without the need for direct SSH, etc. As more scripts are added by myself or contributors, they will be added into appropriate sub-directories for easy searching.
