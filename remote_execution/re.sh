@@ -4,7 +4,7 @@
 # To make this seamless, use ssh-copy-id to send your public key to a server and the ssh-add command to add your private key to your local user-agent so it automatically authenticates you.
 # An example run would be re.sh -c current_execute.sh
 
-while getopts ":c:" opt; do
+while getopts "c" opt; do
   case $opt in
     c)
       rsync -av ./ user@host:~/deployed   
